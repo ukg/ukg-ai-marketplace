@@ -1,0 +1,38 @@
+{
+  "name": "ukg-bryte",
+  "displayName": "UKG Bryte",
+  "version": "0.1.5",
+  "description": "UKG Bryte for Claude — Bring your HR and workforce data into Claude via the public UKG MCP server. Skills: UKG Directory (read-only employee directory, employment details, work location, email, and org-chart/reporting views), and Time Off & Accruals (check balances, submit and track time-off requests, review accrual history, and manager time-off/schedule views). Beta Early Access: UKG customer administrators can apply for access here: https://forms.cloud.microsoft/r/YW9VYAREkN",
+  "keywords": [
+    "ukg",
+    "ukg-pro",
+    "ukg-bryte",
+    "bryte",
+    "hr",
+    "hcm",
+    "hris",
+    "people-operations",
+    "workforce-management",
+    "employee-self-service",
+    "manager-self-service",
+    "employee-directory",
+    "org-structure",
+    "directory",
+    "org-chart",
+    "time-off",
+    "accruals",
+    "workforce"
+  ],
+  "author": {
+    "name": "UKG",
+    "url": "https://www.ukg.com"
+  },
+  "homepage": "https://github.com/ukg/ukg-ai-marketplace",
+  "repository": "https://github.com/ukg/ukg-ai-marketplace",
+  "documentationUrl": "https://eng2e.seismic.com/ls/ed73fe3e-5dac-4215-9541-98eb0fa1cfe6/Dm9gI1IbzvdQi15D",
+  "supportUrl": "https://www.ukg.com/support",
+  "privacyPolicyUrl": "https://www.ukg.com/privacy",
+  "termsOfServiceUrl": "https://www.ukg.com/terms-of-use",
+  "license": "Apache-2.0",
+  "icon": "./logo.png"
+}

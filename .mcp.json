@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "UKG Bryte": {
+      "type": "http",
+      "url": "",
+      "oauth": {
+        "callbackPort": 8080
+      }
+    }
+  }
+}

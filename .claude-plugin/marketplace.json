@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "ukg",
+  "description": "UKG Public Plugins for Claude",
+  "owner": {
+    "name": "UKG",
+    "url": "https://www.ukg.com"
+  },
+  "plugins": [
+    {
+      "name": "ukg-bryte",
+      "displayName": "UKG Bryte",
+      "description": "UKG Bryte for Claude — Bring your HR and workforce data into Claude via the public UKG MCP server. Skills: UKG Directory (read-only employee directory, employment details, work location, email, and org-chart/reporting views), and Time Off & Accruals (check balances, submit and track time-off requests, review accrual history, and manager time-off/schedule views). Beta Early Access: UKG customer administrators can apply for access here: https://forms.cloud.microsoft/r/YW9VYAREkN",
+      "category": "productivity",
+      "keywords": [
+        "ukg",
+        "ukg-pro",
+        "ukg-bryte",
+        "bryte",
+        "hr",
+        "hcm",
+        "hris",
+        "people-operations",
+        "workforce-management",
+        "employee-self-service",
+        "manager-self-service",
+        "employee-directory",
+        "org-structure",
+        "directory",
+        "org-chart",
+        "time-off",
+        "accruals",
+        "workforce"
+      ],
+      "source": "./"
+    }
+  ]
+}
